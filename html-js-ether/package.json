@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "ether": "^0.0.9",
+    "ethers": "^6.6.2"
+  }
+}
